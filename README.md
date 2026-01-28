@@ -1,102 +1,115 @@
-## Hey 👋, I'm Abdullah Saad!
-<a href='YOUR_LINKEDIN_URL'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='YOUR_TWITTER_URL'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<h1 align="center">👋 Hi, I'm <span style="color:#4e9eff">Abdullah Saad</span></h1>
+<h3 align="center">Frontend Web Developer | JavaScript | React</h3>
 
-I’m a **Web Developer** focused on building fast, modern, and responsive websites using **JavaScript, React, and real-world APIs**.  
-I enjoy creating clean UI, smooth user experiences, and functional front-end applications that solve real problems.
-
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🧐 About Me
-
-- 🔭 &nbsp; Currently improving my front-end skills through real projects  
-- 💡 &nbsp; Passionate about UI/UX and clean code  
-- 🤝 &nbsp; Open to collaboration on JavaScript, React, and API-based apps  
-- 📘 &nbsp; Most of my work is available on GitHub  
-- 📚 &nbsp; Always learning and exploring new technologies  
-- 📫 &nbsp; Let's connect on LinkedIn  
-
-<br>
-
-### 🔧 Languages & Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
-
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Data-blue?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
 ---
 
-# 🚀 My Projects  
-### (With icons + clean descriptions)
+## 🎨 About Me
+
+I'm a **Frontend Web Developer** passionate about building clean, modern and responsive web applications.  
+I enjoy turning UI ideas into real interactive experiences using **JavaScript, React, and APIs**.  
+I focus on making every project:
+- Fast ⚡  
+- Clean 🎯  
+- Useful 💡  
+- Professional 💼  
 
 ---
 
-### 🔹 **First Challenge**  
+## 🚀 Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API%20Integration-3366FF?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-A950FF?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### 🔹 First Challenge
 <a href="https://github.com/alsydybrkt-glitch/first-challenge" target="_blank">
-<img src="https://img.shields.io/badge/First_Challenge-HTML/CSS/JS-blue?style=for-the-badge&logo=target" height="60">
+<img src="https://img.shields.io/badge/First_Challenge-Frontend-blue?style=for-the-badge&logo=target" height="48">
 </a>  
-**Description:**  
-A simple front-end challenge focusing on layout structure, styling basics, and interactive elements.
+✔ Basic responsive challenge using HTML/CSS/JS
 
 ---
 
-### 🔹 **DshPoaard**  
+### 🔹 Dashboard (DshPoaard)
 <a href="https://github.com/alsydybrkt-glitch/DshPoaard" target="_blank">
-<img src="https://img.shields.io/badge/Dashboard-Admin_Panel-orange?style=for-the-badge&logo=dashboard" height="60">
+<img src="https://img.shields.io/badge/Dashboard-AdminPanel-orange?style=for-the-badge&logo=dashboard" height="48">
 </a>  
-**Description:**  
-A modern dashboard UI with cards, statistics, sidebar navigation, and clean responsive layout.
+✔ Admin panel UI with cards, stats & navigation
 
 ---
 
-### 🔹 **Protifolio**  
+### 🔹 Portfolio Website
 <a href="https://github.com/alsydybrkt-glitch/protifolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Personal_Site-green?style=for-the-badge&logo=googlechrome" height="60">
+<img src="https://img.shields.io/badge/Portfolio-PersonalSite-green?style=for-the-badge&logo=googlechrome" height="48">
 </a>  
-**Description:**  
-A personal website for showcasing skills, projects, and experience with a minimal and clean design.
+✔ Clean and modern personal website to showcase your work
 
 ---
 
-### 🔹 **E-Commerce**  
+### 🔹 E-Commerce
 <a href="https://github.com/alsydybrkt-glitch/e-commerce" target="_blank">
-<img src="https://img.shields.io/badge/E--Commerce-Online_Shop-red?style=for-the-badge&logo=shopping-cart" height="60">
+<img src="https://img.shields.io/badge/E--Commerce-WebShop-red?style=for-the-badge&logo=shopping-cart" height="48">
 </a>  
-**Description:**  
-A front-end shop interface including product pages, filtering, categories, and shopping cart features.
+✔ Product pages, cart logic & responsive layout
 
 ---
 
-### 🔹 **Islamic Website**  
+### 🔹 Islamic Website
 <a href="https://github.com/alsydybrkt-glitch/Islamic" target="_blank">
-<img src="https://img.shields.io/badge/Islamic-Website-blueviolet?style=for-the-badge&logo=islam" height="60">
+<img src="https://img.shields.io/badge/Islamic-Website-blueviolet?style=for-the-badge&logo=islam" height="48">
 </a>  
-**Description:**  
-A modern Islamic website featuring Quran sections, Hadith, and multiple UI components inspired by Islamic design.
+✔ Islamic UI including Quran/Hadith sections
 
 ---
 
-### 🔹 **Practise**  
+### 🔹 Practice Projects
 <a href="https://github.com/alsydybrkt-glitch/Practise" target="_blank">
-<img src="https://img.shields.io/badge/Practice-Code_Exercises-yellow?style=for-the-badge&logo=code" height="60">
+<img src="https://img.shields.io/badge/Practice-MiniProjects-yellow?style=for-the-badge&logo=code" height="48">
 </a>  
-**Description:**  
-A collection of mini-projects, experiments, and practice files for learning and testing ideas.
+✔ Experiments and coding exercises
 
 ---
 
-### 🔹 **Sections**  
+### 🔹 UI Sections
 <a href="https://github.com/alsydybrkt-glitch/sections" target="_blank">
-<img src="https://img.shields.io/badge/Sections-UI_Components-purple?style=for-the-badge&logo=layout" height="60">
+<img src="https://img.shields.io/badge/Sections-UI_Components-purple?style=for-the-badge&logo=layout" height="48">
 </a>  
-**Description:**  
-Reusable UI components and layout sections for fast web development and cleaner project structure.
+✔ Ready-made UI components for fast development
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alsydybrkt-glitch&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsydybrkt-glitch&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: YOUR_LINK  
+- 📧 Email: YOUR_EMAIL  
+- 🌐 Portfolio (optional)
+
+---
+
+<p align="center">
+  ⭐ Feel free to explore my repos and star what you like!
+</p>
